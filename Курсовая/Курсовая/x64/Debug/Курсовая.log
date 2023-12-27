@@ -1,0 +1,13 @@
+﻿  Source.c
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(61,3): warning C4013: text: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(63,13): warning C4013: get_variant: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(46,17): warning C4047: инициализация: "char" отличается по уровням косвенного обращения от "void *"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(47,15): warning C4047: инициализация: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(200,28): warning C4047: ==: "int" отличается по уровням косвенного обращения от "void *"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(255,23): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(256,30): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(298,2): warning C4013: strcpy: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(141): warning C4716: text: должна возвращать значение
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(242): warning C4715: writefile: значение возвращается не при всех путях выполнения
+C:\Users\PC\Desktop\Прогаем на С\Курсовая\Курсовая\Source.c(217): warning C4716: status: должна возвращать значение
+  Курсовая.vcxproj -> C:\Users\PC\Desktop\Прогаем на С\Курсовая\x64\Debug\Курсовая.exe
